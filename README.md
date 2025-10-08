@@ -2,7 +2,7 @@
 A collection of self-made icons with a modern design.
 
 ## Collection
-The collection currently contains 15 icons, all for common apps on a phone.
+The collection currently contains 16 icons, all for common apps on a phone.
 - Files
 - Notes
 - Camera
@@ -18,3 +18,4 @@ The collection currently contains 15 icons, all for common apps on a phone.
 - Clock
 - Calculator
 - Wallet
+- Video Calls
