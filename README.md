@@ -20,3 +20,4 @@ The collection currently contains 17 icons, all for common apps on a phone.
 - Wallet
 - Video Calls
 - Maps
+- Contacts
